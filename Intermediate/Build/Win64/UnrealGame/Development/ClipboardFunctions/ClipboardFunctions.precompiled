@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ClipboardFunctions\\Module.ClipboardFunctions.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ClipboardFunctions\\ClipboardFunctions.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ClipboardFunctions\\ClipboardFunctionsBPLibrary.cpp.obj"
+	]
+}
